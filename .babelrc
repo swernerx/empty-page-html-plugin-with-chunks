@@ -1,0 +1,5 @@
+{
+  "presets": [
+    [ "edge", { "debug": false, "imports": null, "comments": true } ]
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+docs/
+
+.cache-loader/
+webpack.config.js
+
+.DS_Store
